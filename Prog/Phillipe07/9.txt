@@ -1,0 +1,4 @@
+a) 5, 4, 3, 2, 1
+b) Esse código inverte a ordem do vetor (antes crescente, agora decrescente)
+c) Temp é uma variável auxiliar que serve pra guardar um número inicialmente e depois atribuir esse valor a outro número
+d) Seria errado porque vetores começam pelo índice 0, então um vetor de 5 elementos vai de 0 a 4

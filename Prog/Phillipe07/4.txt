@@ -1,0 +1,2 @@
+Primeiro printf: vai imprimir x = 13 e *px vai imprimir 13
+Segundo printf: vai impirmir y = 101 e *py vai imprimir 101

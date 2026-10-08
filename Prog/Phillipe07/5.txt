@@ -1,0 +1,5 @@
+A -  certa, x e y já foram declaradas do jeito esperado pela função
+B -  errada, y é um ponteiro e x é um inteiro, está invertido
+C -  errada, int a espera um inteiro e não um endereço de memória
+D -  certa, *y desreferencia o ponteiro y e int *pb realmente espera receber um endereço de memória
+E -  certa
